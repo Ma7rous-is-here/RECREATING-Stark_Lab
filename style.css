@@ -126,12 +126,6 @@ body {
         border: 1px solid var(--sidebox-links-col);
         border-radius: 8px;
     }
-
-    img {
-        position: relative;
-        bottom: 35px;
-        left: 15px;
-    }
 }
 
 .tags-wrapper {
